@@ -102,7 +102,7 @@ The cover page should include the following:
 |No. | Name| Mail|
 |----|-----|-----|
 |1. | **Anoushkrit Goel**| anoushkritgoel@gmail.com|
-|2. |**Gagandeep Tomar**|gagan28097@gmail.com|
+|2. |**Gagandeep Tomar**|gagandeep280597@gmail.com|
 |3. |**Gauri Katiyar**| gauri.katiyar.phe16@gmail.com|
 
 ### 1.4. Address and Phone Number
